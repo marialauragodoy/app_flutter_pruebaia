@@ -1,0 +1,1 @@
+C:\development\app_flutter_pruebaia\android\app\src\main\kotlin\com\example\app_flutter_pruebaia\MainActivity.kt
